@@ -1,4 +1,4 @@
-# 🛒 Banco de Dados E-commerce
+ # 💻 Projeto Banco de Dados E-commerce
 
 Projeto desenvolvido para o desafio da **DIO.me**, com o objetivo de criar um **modelo lógico e físico de banco de dados relacional** para um sistema de e-commerce.
 
